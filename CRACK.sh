@@ -496,10 +496,35 @@ echo "__________________________________"
 echo
 echo "Crack Fb Target 2022 ‣"
 echo "Loading..."
-echo "Jangan Menggunakan Spasi!!"
-sleep 7
-read -p "User Name Target : " woy
+sleep 2
+echo "_________________________________________"
 echo
+sleep 5
+figlet NON AKTIF
+echo
+echo "Maaf Sementara Targer Belum Di Aktifkan!"
+echo "Nunggu 500 Subs Dulu Ya.."
+echo "Thanks Suport Kalian.."
+sleep 2
+echo "_________________________________________"
+sleep 7
+echo "Tembus 500 Subs Gua Aktifin Fitur Ini"
+echo
+sleep 8
+clear
+figlet Subscribe
+echo
+echo "[==>] Sudah?"
+echo "[==>] Belum?"
+read -p "Sudah Subsceibe? : " woy
+echo
+fi
+
+if [ $woy = Sudah ] || [ $woy = Sudah ]
+then
+	echo "Timakasih Suport Anda😁"
+	sleep 4
+	echo "Bantu Share Ya Biar Cepat 500 Subscriber"
 fi
 
 if [ $woy = Nirfanda ] || [ $woy = Nirfanda ]
