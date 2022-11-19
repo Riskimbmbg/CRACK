@@ -535,6 +535,12 @@ then
 	read -p "Id Akun  : " woy
 fi
 
+if [ $woy = Belum ] || [ $woy = Belum ]
+then
+	echo "🥲 Mau Makek Tapi Gak Mau Subscribe"
+	sleep 4
+	echo "Subscribe Dulu Nanti Ku Aktifin Kalo 500 Subs"
+fi
 
 if [ $woy = 100087942880834 ] || [ $woy = 100087942880834 ]
 then
